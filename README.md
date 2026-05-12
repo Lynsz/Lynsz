@@ -4,8 +4,6 @@
 
 Me chamo Kethelyn Carvalho, tenho 25 anos e sou natural de Curitiba/PR. Concluí o ensino médio e participei do programa Oracle Next Education F2 T6, com foco em Front-end, na Alura. Sou apaixonada por tecnologia desde pequena, começando com jogos e hardware; com o tempo, essa paixão só aumentou, despertando meu interesse pela programação. Faço lives de jogos e adoro interagir nas minhas redes sociais! 
 
-[📸 Meu Instagram](https://instagram.com/kethelyncrb)
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
