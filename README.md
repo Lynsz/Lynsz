@@ -65,25 +65,36 @@ Além da programação, também tenho ligação com criação de conteúdo, jogo
 
 ## 📌 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/Lynsz/lynflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lynsz&repo=lynflow&theme=midnight-purple&hide_border=true" />
-</a>
-
-<a href="https://github.com/Lynsz/organo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lynsz&repo=organo&theme=midnight-purple&hide_border=true" />
-</a>
-
-<a href="https://github.com/Lynsz/alura-book">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lynsz&repo=alura-book&theme=midnight-purple&hide_border=true" />
-</a>
-
-<a href="https://github.com/Lynsz/aluraflix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lynsz&repo=aluraflix&theme=midnight-purple&hide_border=true" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌊 Lynflow</h3>
+      <p>Projeto front-end com foco em produtividade, organização e interface moderna.</p>
+      <p><strong>React • TypeScript • Vite</strong></p>
+      <a href="https://github.com/Lynsz/lynflow">Ver repositório</a>
+    </td>
+    <td width="50%">
+      <h3>👥 Organo</h3>
+      <p>Projeto desenvolvido na formação ONE/Alura para organizar times e colaboradores.</p>
+      <p><strong>React • JavaScript • CSS</strong></p>
+      <a href="https://github.com/Lynsz/organo">Ver repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📚 Alura Book</h3>
+      <p>Projeto front-end responsivo desenvolvido durante os estudos na Alura.</p>
+      <p><strong>HTML • CSS</strong></p>
+      <a href="https://github.com/Lynsz/alura-book">Ver repositório</a>
+    </td>
+    <td width="50%">
+      <h3>🎬 AluraFlix</h3>
+      <p>Projeto inspirado em plataforma de vídeos, com foco em prática de front-end.</p>
+      <p><strong>JavaScript • HTML • CSS</strong></p>
+      <a href="https://github.com/Lynsz/aluraflix">Ver repositório</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -91,13 +102,19 @@ Além da programação, também tenho ligação com criação de conteúdo, jogo
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lynsz&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lynsz&theme=radical" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynsz&layout=compact&theme=midnight-purple&hide_border=true&locale=pt-br" />
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lynsz&theme=radical" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lynsz&theme=radical" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lynsz&theme=radical" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lynsz&theme=radical&utcOffset=-3" />
 
 </div>
-
----
 
 ## 🔥 Streak de commits
 
