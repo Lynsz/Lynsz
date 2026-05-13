@@ -17,9 +17,10 @@
   <a href="https://github.com/Lynsz">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://wa.me/5541997070629">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
-
-</div>
 
 ---
 
