@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header" />
+
 # Kethelyn Carvalho
 
 ### Desenvolvedora Front-End em formação  
@@ -210,54 +212,43 @@ Busco oportunidades como:
 ## GitHub Analytics
 
 <p>
-  Estatísticas geradas automaticamente a partir dos meus repositórios, commits e linguagens usadas no GitHub.
+  Estatísticas do meu perfil, repositórios, linguagens e evolução no GitHub.
 </p>
 
-</div>
-
-<div align="center">
-
-<img 
-  width="900"
-  src="https://raw.githubusercontent.com/Lynsz/Lynsz/main/profile-summary-card-output/tokyonight/0-profile-details.svg"
-  alt="Resumo do perfil GitHub"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img 
-  width="440"
-  src="https://raw.githubusercontent.com/Lynsz/Lynsz/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
-  alt="Repositórios por linguagem"
-/>
-
-<img 
-  width="440"
-  src="https://raw.githubusercontent.com/Lynsz/Lynsz/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"
-  alt="Linguagens mais usadas em commits"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img 
-  width="440"
-  src="https://raw.githubusercontent.com/Lynsz/Lynsz/main/profile-summary-card-output/tokyonight/3-stats.svg"
-  alt="Estatísticas gerais"
-/>
-
-<img 
-  width="440"
-  src="https://raw.githubusercontent.com/Lynsz/Lynsz/main/profile-summary-card-output/tokyonight/4-productive-time.svg"
-  alt="Horário mais produtivo"
-/>
+<table>
+  <tr>
+    <td>
+      <img 
+        width="420"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lynsz&theme=tokyonight"
+        alt="Repositórios por linguagem"
+      />
+    </td>
+    <td>
+      <img 
+        width="420"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lynsz&theme=tokyonight"
+        alt="Linguagens mais usadas em commits"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img 
+        width="420"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lynsz&theme=tokyonight"
+        alt="Estatísticas gerais"
+      />
+    </td>
+    <td>
+      <img 
+        width="420"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lynsz&theme=tokyonight&utcOffset=-3"
+        alt="Horário mais produtivo"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
 
