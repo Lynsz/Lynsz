@@ -1,149 +1,297 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header"/>
-
 <div align="center">
 
-# 👩‍💻 Kethelyn Carvalho
+# Kethelyn Carvalho
 
-### Desenvolvedora Front-End | React • TypeScript • JavaScript
+### Desenvolvedora Front-End em formação  
+#### React • TypeScript • JavaScript • HTML • CSS • Vite
 
-<p>
-  Transformando ideias em interfaces modernas, responsivas e funcionais.
-</p>
+Construindo interfaces modernas, responsivas e funcionais com foco em evolução profissional na área de tecnologia.
 
-<p>
-  <a href="https://www.linkedin.com/in/kethelyncarvalho">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Lynsz">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5541997070629">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
-
-## ✨ Sobre mim
-
-Olá! Me chamo **Kethelyn Carvalho**, sou de **Curitiba/PR** e estou construindo minha carreira como **Desenvolvedora Front-End**.
-
-Tenho foco em criar projetos com **HTML, CSS, JavaScript, TypeScript, React e Vite**, buscando sempre melhorar a organização do código, responsividade, experiência do usuário e boas práticas de desenvolvimento.
-
-Também participei do programa **Oracle Next Education — ONE**, com formação pela **Alura**, onde desenvolvi vários projetos práticos de front-end.
-
-Além da programação, também tenho ligação com criação de conteúdo, jogos, tecnologia e IA.
-
----
-
-## 🚀 Atualmente estudando e praticando
-
-- React com TypeScript
-- Componentização e organização de projetos
-- Hooks, estados e rotas
-- UI responsiva
-- Deploy com Vercel
-- Git, GitHub e fluxo profissional de commits
-- Projetos front-end para portfólio
-
----
-
-## 🧰 Tecnologias e ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,npm,git,github,mysql,py,vercel,vscode&theme=dark" />
-
-<br/><br/>
-
-<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-&nbsp;
-<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+<a href="https://www.linkedin.com/in/kethelyncarvalho" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Kethelyn%20Carvalho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Lynsz" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Lynsz-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://wa.me/5541997070629" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 📌 Projetos em destaque
+## Sobre mim
+
+Me chamo **Kethelyn Carvalho**, sou de **Curitiba/PR** e estou em formação para atuar como **Desenvolvedora Front-End**.
+
+Tenho estudado e desenvolvido projetos com **React, TypeScript, JavaScript, HTML, CSS, Vite, Git e GitHub**, com foco em criar interfaces organizadas, responsivas e com boa experiência visual.
+
+Meu GitHub funciona como meu portfólio técnico, reunindo projetos criados durante meus estudos, formações e evolução prática na programação.
+
+---
+
+## Objetivo profissional
+
+Busco oportunidades como:
+
+- Desenvolvedora Front-End Júnior
+- Estágio em TI
+- Estágio em Desenvolvimento Front-End
+- Estágio em Desenvolvimento Web
+- Vagas de entrada na área de tecnologia
+
+---
+
+## Stack atual
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,git,github,vercel,vscode,figma" />
+
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Front-End</strong></td>
+    <td>HTML, CSS, JavaScript, TypeScript, React</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Build</strong></td>
+    <td>Vite</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Deploy</strong></td>
+    <td>Vercel</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Versionamento</strong></td>
+    <td>Git e GitHub</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>UI</strong></td>
+    <td>Responsividade, componentes, layout limpo e organização visual</td>
+  </tr>
+</table>
+
+---
+
+## Projetos em destaque
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🌊 Lynflow</h3>
-      <p>Projeto front-end com foco em produtividade, organização e interface moderna.</p>
-      <p><strong>React • TypeScript • Vite</strong></p>
-      <a href="https://github.com/Lynsz/lynflow">Ver repositório</a>
+      <h3>💜 Lynflow</h3>
+      <p>
+        Aplicação front-end com foco em organização financeira, dashboard, produtividade e experiência visual moderna.
+      </p>
+      <p>
+        <strong>Stack:</strong> React, TypeScript, Vite, CSS
+      </p>
+      <a href="https://github.com/Lynsz/lynflow">
+        <img src="https://img.shields.io/badge/Acessar%20repositório-lynflow-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
     <td width="50%">
-      <h3>👥 Organo</h3>
-      <p>Projeto desenvolvido na formação ONE/Alura para organizar times e colaboradores.</p>
-      <p><strong>React • JavaScript • CSS</strong></p>
-      <a href="https://github.com/Lynsz/organo">Ver repositório</a>
+      <h3>💸 Lynfinance</h3>
+      <p>
+        Projeto voltado para organização financeira e evolução prática com TypeScript e interfaces modernas.
+      </p>
+      <p>
+        <strong>Stack:</strong> TypeScript, Front-End
+      </p>
+      <a href="https://github.com/Lynsz/lynfinance">
+        <img src="https://img.shields.io/badge/Acessar%20repositório-lynfinance-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
-      <h3>📚 Alura Book</h3>
-      <p>Projeto front-end responsivo desenvolvido durante os estudos na Alura.</p>
-      <p><strong>HTML • CSS</strong></p>
-      <a href="https://github.com/Lynsz/alura-book">Ver repositório</a>
+      <h3>⚛️ Organo</h3>
+      <p>
+        Projeto desenvolvido durante os estudos para praticar componentes, organização de times e estrutura de aplicações React.
+      </p>
+      <p>
+        <strong>Stack:</strong> JavaScript, React, CSS
+      </p>
+      <a href="https://github.com/Lynsz/organo">
+        <img src="https://img.shields.io/badge/Acessar%20repositório-organo-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      </a>
     </td>
     <td width="50%">
-      <h3>🎬 AluraFlix</h3>
-      <p>Projeto inspirado em plataforma de vídeos, com foco em prática de front-end.</p>
-      <p><strong>JavaScript • HTML • CSS</strong></p>
-      <a href="https://github.com/Lynsz/aluraflix">Ver repositório</a>
+      <h3>📚 Alura Book</h3>
+      <p>
+        Projeto front-end responsivo com foco em HTML, CSS, organização visual e estruturação de página.
+      </p>
+      <p>
+        <strong>Stack:</strong> HTML, CSS
+      </p>
+      <a href="https://github.com/Lynsz/alura-book">
+        <img src="https://img.shields.io/badge/Acessar%20repositório-alura--book-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>📝 Formulário Endereço</h3>
+      <p>
+        Projeto de formulário com campos de cadastro e prática de estrutura, estilo e comportamento com JavaScript.
+      </p>
+      <p>
+        <strong>Stack:</strong> HTML, CSS, JavaScript
+      </p>
+      <a href="https://github.com/Lynsz/formulario-endereco">
+        <img src="https://img.shields.io/badge/Acessar%20repositório-formulario--endereco-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🔐 Decodificador de Texto</h3>
+      <p>
+        Projeto para praticar lógica, manipulação de texto, estrutura visual e interação com JavaScript.
+      </p>
+      <p>
+        <strong>Stack:</strong> HTML, CSS, JavaScript
+      </p>
+      <a href="https://github.com/Lynsz/Decodificador-de-Texto">
+        <img src="https://img.shields.io/badge/Acessar%20repositório-Decodificador-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Evolução técnica
 
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lynsz&theme=radical" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lynsz&theme=radical" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lynsz&theme=radical" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lynsz&theme=radical" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lynsz&theme=radical&utcOffset=-3" />
-
-</div>
-
-## 🔥 Streak de commits
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Lynsz&theme=midnight-purple&hide_border=true&locale=pt_BR" />
-
-</div>
+<table>
+  <tr>
+    <td><strong>React</strong></td>
+    <td>Componentes, props, estado, organização de telas e interfaces</td>
+  </tr>
+  <tr>
+    <td><strong>TypeScript</strong></td>
+    <td>Tipagem, organização de dados e melhoria da segurança do código</td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td>Lógica, manipulação de dados, eventos e interatividade</td>
+  </tr>
+  <tr>
+    <td><strong>HTML e CSS</strong></td>
+    <td>Estrutura semântica, responsividade, layout e design visual</td>
+  </tr>
+  <tr>
+    <td><strong>GitHub</strong></td>
+    <td>Versionamento, documentação, README e organização de portfólio</td>
+  </tr>
+</table>
 
 ---
-## 🐍 Cobrinha dos commits
+
+## Formação e estudos
+
+- Ensino Médio completo
+- Formação inicial em programação pela Alura / Oracle Next Education
+- Estudos práticos em Front-End
+- Projetos com React, JavaScript e TypeScript
+- Desenvolvimento de portfólio no GitHub
+- Interesse em IA aplicada ao desenvolvimento e produtividade
+
+---
+
+<div align="center">
+
+## GitHub Analytics
+
+<p>
+  Estatísticas geradas automaticamente a partir dos meus repositórios, commits e linguagens usadas no GitHub.
+</p>
+
+</div>
 
 <div align="center">
 
 <img 
-  src="https://raw.githubusercontent.com/Lynsz/Lynsz/output/github-contribution-grid-snake-dark.svg" 
-  alt="Snake animation" 
+  width="900"
+  src="https://raw.githubusercontent.com/Lynsz/Lynsz/main/profile-summary-card-output/tokyonight/0-profile-details.svg"
+  alt="Resumo do perfil GitHub"
 />
 
 </div>
 
-## 🗂️ Principais áreas do meu GitHub
+<br/>
 
-```txt
-Front-End       ████████████████████
-React           ████████████████
-JavaScript      ██████████████████
-TypeScript      ████████████
-HTML / CSS      ███████████████████
-Projetos Alura  █████████████████
-IA e estudos    ████████
+<div align="center">
+
+<img 
+  width="440"
+  src="https://raw.githubusercontent.com/Lynsz/Lynsz/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+  alt="Repositórios por linguagem"
+/>
+
+<img 
+  width="440"
+  src="https://raw.githubusercontent.com/Lynsz/Lynsz/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"
+  alt="Linguagens mais usadas em commits"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img 
+  width="440"
+  src="https://raw.githubusercontent.com/Lynsz/Lynsz/main/profile-summary-card-output/tokyonight/3-stats.svg"
+  alt="Estatísticas gerais"
+/>
+
+<img 
+  width="440"
+  src="https://raw.githubusercontent.com/Lynsz/Lynsz/main/profile-summary-card-output/tokyonight/4-productive-time.svg"
+  alt="Horário mais produtivo"
+/>
+
+</div>
+
+---
+
+## Cobrinha dos commits
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lynsz/Lynsz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lynsz/Lynsz/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Lynsz/Lynsz/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## Próximos focos
+
+- Evoluir projetos com React e TypeScript
+- Melhorar documentação dos repositórios
+- Criar interfaces mais profissionais
+- Publicar projetos com deploy
+- Desenvolver projetos voltados para problemas reais
+- Buscar oportunidades na área de Front-End e TI
+
+---
+
+<div align="center">
+
+### Obrigada por visitar meu perfil.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" />
+
+</div>
