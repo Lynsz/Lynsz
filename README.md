@@ -256,12 +256,23 @@ Busco oportunidades como:
 
 ## Cobrinha dos commits
 
+## Cobrinha dos commits
+
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lynsz/Lynsz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lynsz/Lynsz/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Lynsz/Lynsz/output/github-contribution-grid-snake.svg">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Lynsz/Lynsz/output/github-contribution-grid-snake-dark.svg?v=20260523"
+  >
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Lynsz/Lynsz/output/github-contribution-grid-snake.svg?v=20260523"
+  >
+  <img 
+    alt="Snake animation" 
+    src="https://raw.githubusercontent.com/Lynsz/Lynsz/output/github-contribution-grid-snake.svg?v=20260523"
+  >
 </picture>
 
 </div>
