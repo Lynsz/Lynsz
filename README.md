@@ -211,39 +211,51 @@ Busco oportunidades como:
 
 ## GitHub Analytics
 
+<div align="center">
+
+## GitHub Analytics
+
 <p>
   Estatísticas do meu perfil, repositórios, linguagens e evolução no GitHub.
 </p>
 
+<img
+  width="840"
+  src="https://raw.githubusercontent.com/Lynsz/Lynsz/main/profile-summary-card-output/tokyonight/0-profile-details.svg"
+  alt="Resumo do perfil GitHub"
+/>
+
+<br/>
+
 <table>
   <tr>
     <td>
-      <img 
+      <img
         width="420"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lynsz&theme=tokyonight&v=20260523"
+        src="https://raw.githubusercontent.com/Lynsz/Lynsz/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
         alt="Repositórios por linguagem"
       />
     </td>
     <td>
-      <img 
+      <img
         width="420"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lynsz&theme=tokyonight&v=20260523"
+        src="https://raw.githubusercontent.com/Lynsz/Lynsz/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"
         alt="Linguagens mais usadas em commits"
       />
     </td>
   </tr>
   <tr>
     <td>
-      <img 
+      <img
         width="420"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lynsz&theme=tokyonight&v=20260523"
+        src="https://raw.githubusercontent.com/Lynsz/Lynsz/main/profile-summary-card-output/tokyonight/3-stats.svg"
         alt="Estatísticas gerais"
       />
     </td>
     <td>
-      <img 
+      <img
         width="420"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lynsz&theme=tokyonight&utcOffset=-3&v=20260523"
+        src="https://raw.githubusercontent.com/Lynsz/Lynsz/main/profile-summary-card-output/tokyonight/4-productive-time.svg"
         alt="Horário mais produtivo"
       />
     </td>
