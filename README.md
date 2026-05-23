@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&v=20260523" />
 
 # Kethelyn Carvalho
 
@@ -12,13 +12,13 @@ Construindo interfaces modernas, responsivas e funcionais com foco em evolução
 <br/>
 
 <a href="https://www.linkedin.com/in/kethelyncarvalho" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Kethelyn%20Carvalho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Kethelyn%20Carvalho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600" />
 </a>
 <a href="https://github.com/Lynsz" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Lynsz-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Lynsz-181717?style=for-the-badge&logo=github&logoColor=white&cacheSeconds=3600" />
 </a>
 <a href="https://wa.me/5541997070629" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&cacheSeconds=3600" />
 </a>
 
 </div>
@@ -51,7 +51,7 @@ Busco oportunidades como:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,git,github,vercel,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,git,github,vercel,vscode,figma&theme=dark&v=20260523" />
 
 </div>
 
@@ -95,7 +95,7 @@ Busco oportunidades como:
         <strong>Stack:</strong> React, TypeScript, Vite, CSS
       </p>
       <a href="https://github.com/Lynsz/lynflow">
-        <img src="https://img.shields.io/badge/Acessar%20repositório-lynflow-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Acessar%20repositório-lynflow-8A2BE2?style=for-the-badge&logo=github&logoColor=white&cacheSeconds=3600" />
       </a>
     </td>
     <td width="50%">
@@ -107,7 +107,7 @@ Busco oportunidades como:
         <strong>Stack:</strong> TypeScript, Front-End
       </p>
       <a href="https://github.com/Lynsz/lynfinance">
-        <img src="https://img.shields.io/badge/Acessar%20repositório-lynfinance-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Acessar%20repositório-lynfinance-7C3AED?style=for-the-badge&logo=github&logoColor=white&cacheSeconds=3600" />
       </a>
     </td>
   </tr>
@@ -122,7 +122,7 @@ Busco oportunidades como:
         <strong>Stack:</strong> JavaScript, React, CSS
       </p>
       <a href="https://github.com/Lynsz/organo">
-        <img src="https://img.shields.io/badge/Acessar%20repositório-organo-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Acessar%20repositório-organo-61DAFB?style=for-the-badge&logo=react&logoColor=black&cacheSeconds=3600" />
       </a>
     </td>
     <td width="50%">
@@ -134,7 +134,7 @@ Busco oportunidades como:
         <strong>Stack:</strong> HTML, CSS
       </p>
       <a href="https://github.com/Lynsz/alura-book">
-        <img src="https://img.shields.io/badge/Acessar%20repositório-alura--book-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Acessar%20repositório-alura--book-E34F26?style=for-the-badge&logo=html5&logoColor=white&cacheSeconds=3600" />
       </a>
     </td>
   </tr>
@@ -149,7 +149,7 @@ Busco oportunidades como:
         <strong>Stack:</strong> HTML, CSS, JavaScript
       </p>
       <a href="https://github.com/Lynsz/formulario-endereco">
-        <img src="https://img.shields.io/badge/Acessar%20repositório-formulario--endereco-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Acessar%20repositório-formulario--endereco-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&cacheSeconds=3600" />
       </a>
     </td>
     <td width="50%">
@@ -161,7 +161,7 @@ Busco oportunidades como:
         <strong>Stack:</strong> HTML, CSS, JavaScript
       </p>
       <a href="https://github.com/Lynsz/Decodificador-de-Texto">
-        <img src="https://img.shields.io/badge/Acessar%20repositório-Decodificador-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Acessar%20repositório-Decodificador-1572B6?style=for-the-badge&logo=css3&logoColor=white&cacheSeconds=3600" />
       </a>
     </td>
   </tr>
@@ -220,14 +220,14 @@ Busco oportunidades como:
     <td>
       <img 
         width="420"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lynsz&theme=tokyonight"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lynsz&theme=tokyonight&v=20260523"
         alt="Repositórios por linguagem"
       />
     </td>
     <td>
       <img 
         width="420"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lynsz&theme=tokyonight"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lynsz&theme=tokyonight&v=20260523"
         alt="Linguagens mais usadas em commits"
       />
     </td>
@@ -236,14 +236,14 @@ Busco oportunidades como:
     <td>
       <img 
         width="420"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lynsz&theme=tokyonight"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lynsz&theme=tokyonight&v=20260523"
         alt="Estatísticas gerais"
       />
     </td>
     <td>
       <img 
         width="420"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lynsz&theme=tokyonight&utcOffset=-3"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lynsz&theme=tokyonight&utcOffset=-3&v=20260523"
         alt="Horário mais produtivo"
       />
     </td>
@@ -253,8 +253,6 @@ Busco oportunidades como:
 </div>
 
 ---
-
-## Cobrinha dos commits
 
 ## Cobrinha dos commits
 
@@ -294,6 +292,6 @@ Busco oportunidades como:
 
 ### Obrigada por visitar meu perfil.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer&v=20260523" />
 
 </div>
