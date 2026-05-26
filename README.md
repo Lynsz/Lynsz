@@ -207,9 +207,6 @@ Busco oportunidades como:
 
 ---
 
-<div align="center">
-
-## GitHub Analytics
 
 <div align="center">
 
